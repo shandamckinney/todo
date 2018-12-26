@@ -26,11 +26,9 @@
 
  body {
   	height: 100%;
-   background: -webkit-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
-   background:    -moz-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
-   background:     -ms-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
-   background:      -o-linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
-   background:         linear-gradient(40deg, #4CB8C4 10%, #EAECC6 100%);
+    background-image:url("https://i.ibb.co/cNwRZxL/mountainbackground.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
    font-family: 'Lato', sans-serif;
  }
 
